@@ -1,0 +1,16 @@
+1)python & R data preparation - dplyr,matrix creation & all done in R , how can be done in python.(most imp).
+2)Advanced Sentiment analysis in python & R.
+3)Qlik Sense - R & Python + All external DB + different types of analytics charts + Scripts.
+4)Shiny- integrate with R and python and create a demographics.
+5)python/R courses- all three courses.
+6)Signature recognition - Python
+7)Text to speech and vice versa.- R and python (googlelanguageR)
+8)2 NP hard problem. - R and python (https://www.kaggle.com/nih-chest-xrays/data)
+
+
+
+
+
+
+Deadline: 15th- 23rd (9 days)
+
