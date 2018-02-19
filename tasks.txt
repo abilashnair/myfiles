@@ -4,8 +4,7 @@
 4)Shiny- integrate with R and python and create a demographics.
 5)python/R courses- all three courses.
 6)Signature recognition - Python
-7)Text to speech and vice versa.- R and python (googlelanguageR)
-8)2 NP hard problem. - R and python (https://www.kaggle.com/nih-chest-xrays/data)
+
 
 
 
